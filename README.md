@@ -5,7 +5,7 @@ Perkenalkan nama saya **Arjikusna Maharjanta**.<br>
 Saya seorang **Mahasiswa Informatika**.<br>
 
 - 🌱 Saat ini tertarik untuk belajar Machine Learning dan Data Science
-- 📫 How to reach me: arjikznnm@gmail.com
+- 📫 How to reach me: arjikusna.m@gmail.com
 - ⚡ Fun fact: Jago main mobile legends
 
 ### Github Statistic
